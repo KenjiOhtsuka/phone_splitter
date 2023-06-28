@@ -18,3 +18,8 @@ https://kenjiohtsuka.github.io/phone_splitter/0/3/3/2/3/3.json
 
 - area_code: 市外局番
 - area_code_length: 市外局番の桁数
+
+## 使用しているデータ
+
+総務省のこちらのページで紹介されている固定電話の電話番号データを使用しています。
+https://www.soumu.go.jp/main_sosiki/joho_tsusin/top/tel_number/number_shitei.html
